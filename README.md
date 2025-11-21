@@ -17,7 +17,9 @@ Dengan ini, Cubit dapat:
 - Mempermudah maintenance, scaling, dan penambahan aturan diskon baru tanpa mengubah UI.
 Hasilnya, proses transaksi menjadi lebih stabil, mudah dipahami, dan lebih aman dari error karena UI tidak lagi menangani logika perhitungan rumit.
 
+
 🛒 2. Perbedaan Diskon Per Item vs Diskon Total Transaksi
+
 a. Diskon Per Item
 Diskon yang diterapkan langsung pada barang tertentu, biasanya berdasarkan:
 - Produk promo tertentu
@@ -40,6 +42,7 @@ Contoh di aplikasi kasir:
 - Total belanja Rp150.000 → diskon 10%
 - Member Premium → diskon tambahan 5% dari total
 Diskon ini bukan untuk item tertentu, tetapi mengurangi total akhir pembayaran.
+
 
 🎨 3. Manfaat Widget Stack pada Tampilan Kategori Menu
 
