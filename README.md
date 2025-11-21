@@ -1,7 +1,9 @@
 # APLIKASI PEMESANAN MAKANAN
 ## UTS Mobile Programming 2
 Nama   : Ajiza Firdaus
+
 NPM    : 23552011059
+
 Kelas  : TIF RP 23 CNS B
 
 ## TEORI & JAWABAN SOAL
