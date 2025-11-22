@@ -1,5 +1,4 @@
-# APLIKASI PEMESANAN MAKANAN
-## UTS Mobile Programming 2
+# UTS MOBILE PROGRAMMING 2
 Nama   : Ajiza Firdaus
 
 NPM    : 23552011059
